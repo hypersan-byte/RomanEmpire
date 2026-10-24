@@ -1,0 +1,33 @@
+{
+  "id": "the-ridge",
+  "name": "The Ridge Residence",
+  "type": "long",
+  "location": "Kingston",
+  "address": "Sample address — Kingston, Jamaica (exact location to be supplied)",
+  "beds": 3,
+  "baths": 2,
+  "guests": 4,
+  "description": "An inviting contemporary home with generous living areas and a quiet outdoor corner. A comfortable setting for everyday routines and new beginnings.",
+  "amenities": [
+    "Private garden",
+    "Parking",
+    "Laundry area",
+    "Unfurnished",
+    "Covered patio"
+  ],
+  "images": [
+    {
+      "src": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=85",
+      "alt": "Illustrative The Ridge Residence property photograph"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1200&q=85",
+      "alt": "Illustrative living room; not the actual property"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=1200&q=85",
+      "alt": "Illustrative bedroom; not the actual property"
+    }
+  ],
+  "sample": true
+}

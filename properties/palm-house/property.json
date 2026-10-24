@@ -1,0 +1,33 @@
+{
+  "id": "palm-house",
+  "name": "Palm House",
+  "type": "short",
+  "location": "Ocho Rios",
+  "address": "Sample address — Ocho Rios, Jamaica (exact location to be supplied)",
+  "beds": 3,
+  "baths": 3,
+  "guests": 6,
+  "description": "A sun-filled retreat with open living spaces, a private pool, and room to slow down. Spend the morning outside and the evening gathered around the table.",
+  "amenities": [
+    "Private pool",
+    "Outdoor dining",
+    "Full kitchen",
+    "Wi-Fi",
+    "Air conditioning"
+  ],
+  "images": [
+    {
+      "src": "https://images.unsplash.com/photo-1613490493576-7fde63acd811?auto=format&fit=crop&w=1200&q=85",
+      "alt": "Illustrative Palm House property photograph"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1200&q=85",
+      "alt": "Illustrative living room; not the actual property"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&w=1200&q=85",
+      "alt": "Illustrative bedroom; not the actual property"
+    }
+  ],
+  "sample": true
+}
