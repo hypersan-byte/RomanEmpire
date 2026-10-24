@@ -1,0 +1,8 @@
+# Publish only the website and property content.
+*
+!index.html
+!style.css
+!app.js
+!properties/
+!properties/**
+**/.gitkeep
