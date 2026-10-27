@@ -1,4 +1,4 @@
-# Roman Empire — rental website prototype
+# Roman Signature Stays — rental website prototype
 
 Local design milestone 1. All properties, addresses, and photographs are illustrative. No inquiries are transmitted or stored. No availability, booking, payment, or email integration exists yet.
 
@@ -16,7 +16,7 @@ Keep private owner documents, identity documents, access codes, and unpublished 
 
 ## Design
 
-Sanctuary Cliff inspired the editorial serif typography, warm ivory and teal palette, generous space, and architectural photography. Roman Empire introduces portfolio browsing, rental-type and location filters, gallery detail views, and distinct stay/viewing inquiry language.
+Sanctuary Cliff inspired the editorial serif typography, warm ivory and teal palette, generous space, and architectural photography. Roman Signature Stays introduces portfolio browsing, rental-type and location filters, gallery detail views, and distinct stay/viewing inquiry language.
 
 External dependencies: Google Fonts and illustrative Unsplash image URLs. Real property photographs should be local files. The prototype can run without a build or package installation.
 
@@ -32,3 +32,7 @@ Repository: https://github.com/hypersan-byte/RomanEmpire. The prototype is stati
 
 Pricing is not published or included in property data. Cards and property details lead to a property-specific contact inquiry.
 
+
+## Brand refresh
+
+Roman Signature Stays uses the supplied brand-board direction: deep ocean, Caribbean blue, coastal mist, champagne sand, and pearl ivory; Playfair Display headings and Montserrat supporting text. The web monogram is a temporary typographic interpretation, pending a standalone master logo file. Rental categories and the no-pricing contact flow are retained.
